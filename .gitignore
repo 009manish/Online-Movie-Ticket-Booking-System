@@ -1,0 +1,12 @@
+# C++ build files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
