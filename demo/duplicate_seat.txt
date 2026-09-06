@@ -1,0 +1,9 @@
+DEMO: DUPLICATE SEAT
+
+Selected the same seat C1 twice.
+
+Expected:
+Seat C1 selected more than once.
+Booking rejected; nothing changed.
+
+No seat is booked.

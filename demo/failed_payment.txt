@@ -1,0 +1,14 @@
+DEMO: FAILED PAYMENT
+
+Selected:
+- Movie: 3 Idiots
+- Show: 06:00 PM
+- Seats: C1, A1
+- Payment: UPI
+- UPI ID: blank
+
+Expected:
+Total amount: Rs. 550.00
+Payment FAILED.
+Booking NOT confirmed.
+Selected seats remain AVAILABLE.

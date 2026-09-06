@@ -1,0 +1,15 @@
+DEMO: SUCCESSFUL MULTIPLE-SEAT BOOKING
+
+Selected:
+- Movie: 3 Idiots
+- Show: 06:00 PM
+- Seats: C1, B1
+- Payment: UPI
+- UPI ID: manish@upi
+
+Expected:
+Total amount: Rs. 650.00
+UPI payment successful
+Booking ID: 1001
+Status: CONFIRMED
+Seats C1 and B1 become BOOKED.

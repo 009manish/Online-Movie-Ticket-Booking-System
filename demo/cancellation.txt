@@ -1,0 +1,8 @@
+DEMO: CANCELLATION
+
+After a successful booking, choose cancellation and enter the booking ID.
+
+Expected:
+Booking <ID> cancelled successfully.
+All booked seats are AVAILABLE again.
+Booking status becomes CANCELLED.
