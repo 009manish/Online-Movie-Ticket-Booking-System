@@ -65,10 +65,7 @@ public:
         cout << "\nTotal amount: Rs. "<< fixed << setprecision(2)<< total << "\n";
         // Create booking in PENDING state.
         auto booking = make_unique<Booking>(
-            customer,
-            &show,
-            selectedSeats,
-            total
+            customer, &show, selectedSeats, payment, total
         );
         // Process selected payment method.
         bool paid = processPayment(payment, total);
